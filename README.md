@@ -1,4 +1,4 @@
-#SimplePasswordToggler
-##Simple Password Toggler made using JavaScript
+# SimplePasswordToggler
+## Simple Password Toggler made using JavaScript
 
 ![Screenshot](appshot.png)
